@@ -7,6 +7,7 @@ For the following site: https://www.federalreserve.gov/start-job-search.htm crea
 # Example
 
 scrapy crawl fed_reserve_jobs -a keywords=student -a category=Interns
+<br /><br />
 Requirements
 - Python
 - Scrapy
